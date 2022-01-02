@@ -1,0 +1,22 @@
+Pesquisa de Imagens:
+
+https://streetfighter.com/characters/?lang=pt-br
+
+Foto de EVG Culture no Pexels
+https://www.instagram.com/evgvisual/
+
+Foto de Erik Mclean no Pexels
+https://instagram.com/Introspectivedsgn
+
+Foto de Jaroslav Nymburský no Pexels
+https://instagram.com/citronovalimonada
+
+Foto de Jens Mahnke no Pexels
+https://instagram.com/atomlabor_blog
+
+/* ---------------------------------------------------------------------------
+// Versão Original - Digitalinnovation.one
+// Por Dalmo Silva Mendes, New Version: Jogo da Memória v2.0 - Street Fighter V 
+// Boa Vista-RR, 01/01/2022 - Git: https://github.com/DalmoMendes/
+------------------------------------------------------------------------------
+*/

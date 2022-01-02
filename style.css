@@ -1,0 +1,56 @@
+/* ---------------------------------------------------------------------------
+// Versão Original - Digitalinnovation.one
+// Por Dalmo Silva Mendes, New Version: Jogo da Memória v2.0 - Street Fighter V 
+// Boa Vista-RR, 01/01/2022 - Git: https://github.com/DalmoMendes/
+------------------------------------------------------------------------------
+*/
+body{
+    background-color: black;
+}
+#container{
+	width:1024px;
+	height:500px;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+}
+#street-fighter {
+	width: 100%;
+    height:579px;
+	background-image: url(jm-Street-FighterV.png);
+}
+.btn{
+	padding: 10px;
+	border-radius: 4px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 600;
+	cursor: pointer;
+	text-decoration: none;
+	border: 1px solid orange;
+}
+.btn_start{
+	background-color: orange;
+}
+.btn_start:hover{
+	background-color: green;
+	color: aliceblue;
+	box-shadow: 1px 1px 1px 1px #aaaaaa;
+}
+input[type=text]{
+    border: 1px solid orange;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 10px;
+	width: 150px;
+}
+.input[type=text]:focus{
+    outline: 0;
+}
+.auth{
+	width: 80%;
+	margin: auto;
+}
+.by{
+color: #fff;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
