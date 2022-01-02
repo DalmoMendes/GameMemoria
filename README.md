@@ -1,4 +1,4 @@
-# Game Memoria Street Fighter V
+# Game Memória Street Fighter V
 Super Game Memória, tema Street Fighter V com efeitos sonoros.
 <p>Neste projeto personalizei o jogo da memória, criando funções em js, efeitos sonoros, tema Street Fighter V com 10 personagens, tela de entrar com banner personalizado, além de alterações no CSS e organização de diretórios.</p>
 <img src="https://github.com/DalmoMendes/GameMemoria/blob/master/jm-Street-FighterV.png">
